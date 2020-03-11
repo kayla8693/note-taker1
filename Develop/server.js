@@ -25,18 +25,6 @@ app.get('/notes', function (req, res) {
     res.sendFile(path.join(output_dir, 'notes.html'));
 });
 
-// const savedNotes = JSON.parse(
-//     fs.readFileSync("db/db.json", function (error, data) {
-
-//         if (error) {
-//             console.log(error);
-//         }
-//         console.log(data);
-
-//     })
-// );
-
-// let savedNotes = [];
 
 app.get('/api/notes', function (req, res) {
     return res.json(savedNotes);
@@ -74,7 +62,7 @@ app.delete("/api/notes/:id", function (req, res) {
         if (savedNotes[i].id === id) {
             console.log(savedNotes[i].id)
             console.log(savedNotes[i])
-            savedNotes.splice(i);
+            savedNotes.splice(i, 1);
             writeNotes();
             return res.json(savedNotes);
 
