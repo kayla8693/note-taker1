@@ -3,6 +3,13 @@
 ## Description
 This application allows a user to write, save, view, and delete notes. The application uses an Express.js backend and saves and retrieves note data from a JSON file. For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
+
+<img width="600" alt="Screenshot 2020-03-11 18 44 32" src="https://user-images.githubusercontent.com/56415756/76474597-37447b80-63ca-11ea-9aa0-36cba55b3e59.png">
+
+
+<img width="600" alt="Screenshot 2020-03-11 18 45 44" src="https://user-images.githubusercontent.com/56415756/76474675-63f89300-63ca-11ea-83dd-6ca5c0d7bb9c.png">
+
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
