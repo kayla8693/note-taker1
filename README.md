@@ -29,12 +29,8 @@ This application allows a user to write, save, view, and delete notes. The appli
 ## Usage
 <p id='usage'></p>
 
-- Run 
-
->node server.js 
-
-- Navigate to the prompted url
-- Hit the "Get Started" button and your're ready to go! Write and save as many notes as you'd like! The notes will save on the application unless you delete them.
+- Navigate to https://note-taker-kg-2020.herokuapp.com/
+- Hit the "Get Started" button and your're ready to go! Write and save as many notes as you'd like! The notes will save on the application unless you delete them
 
 ## License
 <p id='license'></p>
