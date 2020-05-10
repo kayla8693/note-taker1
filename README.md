@@ -22,7 +22,7 @@ This application allows a user to write, save, view, and delete notes. The appli
 <p id='technologies'></p>
 
 - Node.js
-- Expree.js
+- Express.js
 - API routing
 
 ## Installation
