@@ -11,11 +11,19 @@ This application allows a user to write, save, view, and delete notes. The appli
 
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [License](#license)
-4. [Contributing](#contributing)
-5. [Questions](#questions)
+1. [Technologies](#technologies)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [License](#license)
+5. [Contributing](#contributing)
+6. [Questions](#questions)
+
+## Technologies
+<p id='technologies'></p>
+
+- Node.js
+- Expree.js
+- API routing
 
 ## Installation
 <p id='installation'></p>
